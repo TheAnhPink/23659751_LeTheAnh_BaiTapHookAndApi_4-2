@@ -6,12 +6,16 @@ import './App.css'
 import UseStateEx from './components/UseStateEx'
 import UseEffectEx from './components/UseEffectEx'
 import UseReducer from './components/UseReducer'
+import UseRefEx from './components/UseRefEx'
+import UseMemoEx from './components/UseMemoEx'
 
 function App() {
   return(
     // <UseStateEx />
     // <UseEffectEx />
-    <UseReducer />
+    // <UseReducer />
+    // <UseRefEx />
+    <UseMemoEx />
   )
 }
 
