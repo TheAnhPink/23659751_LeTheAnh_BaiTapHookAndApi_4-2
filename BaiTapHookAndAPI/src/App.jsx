@@ -4,10 +4,12 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 import UseStateEx from './components/UseStateEx'
+import UseEffectEx from './components/UseEffectEx'
 
 function App() {
   return(
-    <UseStateEx />
+    // <UseStateEx />
+    <UseEffectEx />
   )
 }
 
