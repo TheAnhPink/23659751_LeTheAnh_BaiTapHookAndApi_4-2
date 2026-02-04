@@ -8,6 +8,7 @@ import UseEffectEx from './components/UseEffectEx'
 import UseReducer from './components/UseReducer'
 import UseRefEx from './components/UseRefEx'
 import UseMemoEx from './components/UseMemoEx'
+import UseCallBackEx from './components/UseCallBackEx'
 
 function App() {
   return(
@@ -15,7 +16,8 @@ function App() {
     // <UseEffectEx />
     // <UseReducer />
     // <UseRefEx />
-    <UseMemoEx />
+    // <UseMemoEx />
+    <UseCallBackEx />
   )
 }
 
